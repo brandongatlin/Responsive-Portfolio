@@ -267,3 +267,21 @@ footer {
     width: 240px;
     padding: 5px;
 }
+
+@media only screen and (max-width: 980px) {
+    body {
+        background-color: lightblue;
+    }
+}
+
+@media only screen and (max-width: 768px) {
+    body {
+        background-color: lightgreen;
+    }
+}
+
+@media only screen and (max-width: 640px) {
+    body {
+        background-color: lightpink;
+    }
+}
